@@ -43,7 +43,7 @@ top of the mountain pushing down code like an avalanche
 SVN and CVS never hard a chance
 its undisputed its distributed 
 all the boys and girls agree the github
-ocotcat is the cutest 
+octocat is the cutest 
 im a github boss title unrefuted
 follow marak right now ( uhh uhh just do it )
 
