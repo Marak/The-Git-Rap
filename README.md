@@ -40,7 +40,7 @@ git push origin master you dont wanna brawl
 chillin in my dash-b boy stance
 git check it out yo to make a new branch
 top of the mountain pushing down code like an avalanche
-SVN and CVS never hard a chance
+SVN and CVS never had a chance
 its undisputed its distributed 
 all the boys and girls agree the github
 octocat is the cutest 
