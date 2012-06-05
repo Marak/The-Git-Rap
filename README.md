@@ -12,9 +12,9 @@ i got ten stacks pushed in my stash
 git stash clear, it was gone like that
 but have no fear cause i bounce right back
 
-(bounce right back bounce right back)
+( bounce right back bounce right back )
 
-some use a gui, and i guess thats fine 
+some use a gui, and i guess thats fine
 but your boy right here prefers the command line
 
 git init to git the party started
@@ -22,8 +22,8 @@ git add them files and then we git retarded
 got got no no no idea what what what is in store
 just a touch that file dot-git-ignore
 
-(dont forget .DS_Store in your gitignore)
-(dont forget .DS_Store in your gitignore)
+( dont forget .DS_Store in your gitignore )
+( dont forget .DS_Store in your gitignore )
 thats only if you got mac
 
 so, now we taking the tour
@@ -31,8 +31,8 @@ got files added, don't need no more
 yo this is too legit to quit
 so its time for the git commit
 i do a dash-a to specify them all
-dash -m with the message that ima show yall
-this is the first commit and we standing  tall
+dash-m with the message that ima show y'all
+this is the first commit and we standing tall
 git push origin master you dont wanna brawl
 
 ( why? )
@@ -49,15 +49,14 @@ follow marak right now ( uhh uhh just do it )
 
 ( yeah github is pretty cool )
 
-
-ohh hrmm it that a remote we have
+ohh hrmm is that a remote we have
 i wont git merge your branch if the code is bad
 your pull request has no tests and you know thats sad
-i got continuos git integration bro, you mad?
+i got continuous git integration bro, you mad?
 even chad, could not deny the work flow...
 git is a power tool ready to put in work...
 
-mein, this is the git rap 
+mein, this is the git rap
 i am your git teacher
 and you could get slapped
 man, you better check yourself
@@ -69,9 +68,9 @@ so git hubbers just keep iterating
 git tag all them versions keep the changelog stating
 a brief description of things dun change
 always using semantic versioning raaaaanges
-its not dangerous 
+its not dangerous
 internet strangers
-open-source bangers 
+open-source bangers
 coding in hangers
 pull request slangers
 that you dont wanna anger 
@@ -94,24 +93,24 @@ so pop that stash like a collared shirt bro
 grammers dont go into interactive mode
 squash my commit and i will explode
 if you regress my feature
-i'll unleashed the hypnotoad
+i'll unleash the hypnotoad
 
 ( waaaahhh )
 
 so, back to the lesson at hand
 git status to determine to the plan
-git diff color to see where i am 
+git diff color to see where i am
 i get with git every day i can
 this is the git rap and i am the git man
 wait you mean li-li-linus, mr linux royal highness
 he made git the best he can so you know it is the finest
-anyone not using git needs to be reminded its 
+anyone not using git needs to be reminded its
 imperative to distribute authors of the code
 if we didnt have git the linux kernel would probably explode
 so says we all even the hypnotoad
-the shoulders of giants is where we road
+the shoulders of giants is where we rode
 we roll in compliance with the history of code
 
-( code code code code code)
+( code code code code code )
 
 ```
