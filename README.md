@@ -4,6 +4,8 @@
 
 [http://soundcloud.com/marak/the-git-rap](http://soundcloud.com/marak/the-git-rap)
 
+[http://soundcloud.com/kindohm/git-rap-remix](http://soundcloud.com/kindohm/git-rap-remix) (Kindohm cherry-pick mix)
+
 ```
 yo, this is the git rap
 we gonna do it like this
